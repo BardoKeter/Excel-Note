@@ -16,3 +16,5 @@ Painting:[https://www.bilibili.com/video/av20749848](https://www.bilibili.com/vi
 
 excel:[http://pc-shop.xiaoe-tech.com/appmK7yAKmY4576/video\_details?id=v\_5ba35267820b1\_UGMc7wJ7](http://pc-shop.xiaoe-tech.com/appmK7yAKmY4576/video_details?id=v_5ba35267820b1_UGMc7wJ7)
 
+SQL:[https://www.coursera.org/learn/analytics-mysql/home/welcome](https://www.coursera.org/learn/analytics-mysql/home/welcome)
+
